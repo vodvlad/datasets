@@ -1,4 +1,4 @@
-sex,age,cough,body temperature,taste and smell, dead
+sex,age,cough,body temperature,taste and smell,dead
 Female,Adult,No,Yes,Yes,1
 Male,Old,No,Yes,No,1
 Female,Young,No,Yes,No,0
